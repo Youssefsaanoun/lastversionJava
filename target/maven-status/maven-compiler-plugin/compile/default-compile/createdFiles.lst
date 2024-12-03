@@ -1,0 +1,15 @@
+servise\EtudiantServise.class
+repository\EtudiantRepository.class
+Models\Contact.class
+Models\Role.class
+Models\Adresse.class
+myproject\java\TestHibernate.class
+connectionDataBase\DataBaseConnection.class
+myproject\java\MyResource.class
+Config\ApplicationConfig.class
+myproject\java\ContactController.class
+myproject\java\HibernateUtil.class
+connectionDataBase\CreateTable.class
+servisesImplementation\EtudiantServisesImplementation.class
+repositoryImplementation\RepositoryServise.class
+Models\Etudiant.class
